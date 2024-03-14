@@ -42,6 +42,9 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :fire: My Stats :
 <div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekzeru" alt="ekzeru"></a>
+
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ekzeru)](https://git.io/streak-stats)
 
