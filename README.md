@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oleg</h1>
 <h3 align="center">I am a netology student taking the course "Frontend developer from scratch to junior"</h3>
+<div align="center">
+<a href="https://github.com/ekZeRu/Portfolio"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZiZzNzd2pyYXl0NTM1aHBrNW83M2xxeDNrNndlZGI4bmZtNWd4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OItOs8W4NpOTSPwZwU/giphy.gif" width="100" alt="Portfolio"></a>
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
